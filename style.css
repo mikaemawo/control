@@ -1,0 +1,14 @@
+
+#box {
+    width: 150px;
+    height: 150px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 1px solid rgb(14, 14, 14);
+    cursor: pointer
+}
+
+.active {
+    background-color: blue;
+}
+
